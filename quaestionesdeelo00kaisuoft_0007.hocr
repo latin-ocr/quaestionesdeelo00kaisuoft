@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesdeelo00kaisuoft_0007.png"; bbox 0 0 2132 3358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 626 1179 1227 1227">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 626 1179 1227 1227">
+     <span class='ocr_line' id='line_1_1' title="bbox 626 1179 1227 1227; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 626 1179 879 1227; x_wconf 68' lang='lat' dir='ltr'>BRUNO</span> <span class='ocrx_word' id='word_1_2' title='bbox 921 1181 1227 1227; x_wconf 59' lang='lat' dir='ltr'>lmlsfflz:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 237 1345 1614 1555">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 237 1345 1614 1555">
+     <span class='ocr_line' id='line_1_2' title="bbox 533 1345 1313 1439; baseline 0.001 -18"><span class='ocrx_word' id='word_1_3' title='bbox 533 1345 1313 1439; x_wconf 56' lang='lat' dir='ltr'>QUAESTRJNIGS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 237 1483 1614 1555; baseline -0.001 0"><span class='ocrx_word' id='word_1_4' title='bbox 237 1485 342 1555; x_wconf 70' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 392 1483 904 1555; x_wconf 77' lang='lat' dir='ltr'><strong>ELOCUTIONE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 960 1483 1614 1555; x_wconf 66' lang='lat' dir='ltr'>DEMOSTHEN1‹J}A.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
